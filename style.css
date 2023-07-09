@@ -33,6 +33,7 @@
   color: white;
   display: flex;
   align-items: center;
+  justify-content: center;
 }
 .banner-title {
   font-size: 85px;
@@ -66,7 +67,7 @@
   height: 100vh;
   display: flex;
   justify-content: space-around;
-  /* align-items: center; */
+  align-items: center;
   background-image: url("asset/image/footer-bg.png"),
     linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.9));
   background-blend-mode: overlay;
@@ -138,7 +139,7 @@
     align-items:center;
     margin: auto;
     border-radius: 15px;
-    margin-top:-50px;
+    margin-top:-80px;
     color: white;
 }
 .call-logo{
