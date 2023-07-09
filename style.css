@@ -181,3 +181,30 @@
     width: 50%;
     margin: auto;
 }
+.blogs{
+    margin-top: 35px;
+    padding:30px;
+    display: flex;
+    justify-content: space-around ;
+    align-items:center;
+}
+.blog{
+    width:350px;
+    height: 430px;
+    background:white;
+    box-shadow: 4px 4px 8px gray;
+    border-radius:10px;
+}
+.blog-text{
+    padding: 15px;
+}
+.blog-para{
+    font-size:18px;
+    color: rgb(76, 72, 72);
+    margin-top: 15px;
+}
+.blog-img{
+    width: 350px;
+    border-radius: 10px;
+    padding-bottom: 10px;
+}
